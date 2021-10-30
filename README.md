@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nave Adi aka @Terrfex
 - 👀 I’m interested in C,C++,x86 and RE
-- 🌱 I’m currently learning ASM x86
+- 🌱 I’m currently learning RE
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: my email - thenaveadi@gmail.com
 
